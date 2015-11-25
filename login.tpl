@@ -8,7 +8,7 @@
     <meta name="author" content="Jacques Marneweck // www.leopardrock.com">
     <meta name="copyright" content="2014-2015 Jacques Marneweck.  All rights strictly reserved.">
     <meta name="keywords" content="procard, professional card, processional card solutions, diamond, diamond card, money, wallet, account, eftdebit, eftcredit, debitcard, debitcards, banking, bank, payroll, debitorder, debitorders, eftpos, standing order, debitorder, garnishee order">
-    <meta name="description" content="Processional Card Solutions &mdash; Your Money Matters">
+    <meta name="description" content="Professional Card Solutions &mdash; Your Money Matters">
     <title>Professional Card Solutions &mdash; Your Money Matters &mdash; Signin</title>
 {include file="_partials/header-bsfa.tpl"}
     <link href="/css/procard.css" rel="stylesheet">
